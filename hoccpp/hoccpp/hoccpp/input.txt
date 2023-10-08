@@ -1,0 +1,5 @@
+Nguyen Thanh Trung;19;10
+Nguyen Ngoc Anh;19;9.5
+Tieu Viem;25;9
+Duoc Lao;70;8
+Duong Tam;20;7
